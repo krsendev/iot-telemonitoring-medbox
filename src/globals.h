@@ -1,10 +1,9 @@
+// src/globals.h
 #pragma once
 #include <Arduino.h>
-#include <Wire.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
 #include <ESP32Servo.h>
 #include <RTClib.h>
+#include <Adafruit_SSD1306.h>
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include "config.h"
