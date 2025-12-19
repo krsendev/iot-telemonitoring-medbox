@@ -4,7 +4,7 @@
 // Pin komponen
 constexpr int PIN_BUZZER = 33;
 constexpr int PIN_IR     = 34;
-constexpr int PIN_SERVO  = 32;
+constexpr int PIN_SERVO  = 18;
 constexpr int PIN_LED_G  = 5;
 constexpr int PIN_LED_R  = 4;
 constexpr int PIN_BUTTON = 35;

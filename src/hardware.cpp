@@ -37,7 +37,7 @@ void initPins() {
     pinMode(PIN_LED_R, OUTPUT);
     pinMode(PIN_LED_G, OUTPUT);
     pinMode(PIN_IR, INPUT);
-    pinMode(PIN_BUTTON, INPUT_PULLUP);
+    pinMode(PIN_BUTTON, INPUT_PULLDOWN);
 }
 
 void initHardware() {
